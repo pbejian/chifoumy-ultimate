@@ -1,3 +1,6 @@
+# LE PACKAGE CHIFOUMY
+git+https://github.com/pbejian/chifoumy.git@main
+
 # Le Wagon minimal packages
 pytest
 pylint
@@ -41,7 +44,4 @@ opencv-python
 mediapipe; sys_platform == 'linux'
 mediapipe-silicon; sys_platform == 'darwin'
 streamlit
-
-# Et évidemment :
-chifoumy
 
