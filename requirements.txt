@@ -1,5 +1,5 @@
 # LE PACKAGE CHIFOUMY
-# git+https://github.com/pbejian/chifoumy.git@main
+git+https://github.com/pbejian/chifoumy.git@main
 
 # Le Wagon minimal packages
 # pytest
